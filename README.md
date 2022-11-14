@@ -1,9 +1,8 @@
-- 👋 Hi there!
-my name is Oleksandr and I am glad to welcome you on this page (it's strange that you got here)
-- 👀 I’m interested in DevOps, GameDev, Management
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋  Hi there!  
+My name is Oleksandr and I am glad to see you on this page (it's strange that you got here 👀 )  
+- 👀 I’m interested in DevOps, GameDev, Management .
+- 🌱 I am currently working and learning the **DevOps way**, but also supporting my personal and team projects as a developer and manager.
+- 📫 You can find more information and my contacts [Here](https://trusilov.github.io/)
 
 <!---
 trusilov/trusilov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
